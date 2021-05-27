@@ -1,0 +1,3 @@
+[submodule "GPUJobSystem"]
+	path = GPUJobSystem
+	url = https://github.com/drepekh/GPUJobSystem
