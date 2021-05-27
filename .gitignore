@@ -1,0 +1,8 @@
+*.html
+ads.txt
+.vscode
+*.exe
+*.ilk
+*.pdb
+*.spv
+*.obj
